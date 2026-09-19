@@ -1,32 +1,27 @@
 [
   {
     "type": "file",
-    "name": "index",
-    "label": "开始你的 EVE 生涯"
+    "name": "eve-overview",
+    "label": "认识 EVE Online"
   },
   {
     "type": "file",
     "name": "client-and-account",
-    "label": "客户端下载与账号注册"
+    "label": "客户端、账号与加速器"
   },
   {
     "type": "file",
-    "name": "monetization",
-    "label": "氪金与充值"
+    "name": "factions-and-fuxi",
+    "label": "认识大势力与伏羲军团"
   },
   {
     "type": "file",
-    "name": "gameplay-and-progression",
-    "label": "基础玩法与发展规划"
+    "name": "first-login-and-development",
+    "label": "首次登录与新人发展路线"
   },
   {
     "type": "file",
-    "name": "new-player-basics",
-    "label": "新玩家基础知识"
-  },
-  {
-    "type": "file",
-    "name": "new-player-tips",
-    "label": "新手技巧"
+    "name": "services-and-communication",
+    "label": "绑定 SeAT 与加入语音"
   }
 ]
