@@ -1,11 +1,6 @@
 [
   {
     "type": "file",
-    "name": "index",
-    "label": "伏羲社区与服务"
-  },
-  {
-    "type": "file",
     "name": "fuxi-community",
     "label": "伏羲社区"
   },

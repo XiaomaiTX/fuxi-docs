@@ -1,11 +1,6 @@
 [
   {
     "type": "file",
-    "name": "index",
-    "label": "历史的碎片"
-  },
-  {
-    "type": "file",
     "name": "fuxi-winterco-community",
     "label": "伏羲、凛冬与华人社区"
   },
