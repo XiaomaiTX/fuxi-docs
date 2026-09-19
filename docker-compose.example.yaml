@@ -1,0 +1,15 @@
+services:
+  docs:
+    image: ${FUXI_DOCS_IMAGE:-xiaomaitx/fuxi-docs:latest}
+    container_name: fuxi-docs
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
+    ports:
+      - '${FUXI_DOCS_PORT:-8080}:80'
+    healthcheck:
+      test: ['CMD-SHELL', 'wget --quiet --spider http://127.0.0.1/ || exit 1']
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
