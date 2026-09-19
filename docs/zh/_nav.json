@@ -1,16 +1,21 @@
 [
   {
-    "text": "指南",
-    "link": "/guide/start/introduction",
-    "activeMatch": "/guide/"
+    "text": "军团文档",
+    "link": "/docs/",
+    "activeMatch": "/docs/"
   },
   {
-    "text": "API",
-    "link": "/api/",
-    "activeMatch": "/api/"
+    "text": "军团规定",
+    "link": "/rules/",
+    "activeMatch": "/rules/"
   },
   {
-    "text": "文档",
-    "link": "https://rspress.rs/"
+    "text": "更新日志",
+    "link": "/changelog/",
+    "activeMatch": "/changelog/"
+  },
+  {
+    "text": "伏羲 Zkillboard",
+    "link": "https://zkillboard.com/corporation/98185110/"
   }
 ]

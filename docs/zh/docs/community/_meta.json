@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "伏羲社区与服务"
+  },
+  {
+    "type": "file",
+    "name": "fuxi-community",
+    "label": "伏羲社区"
+  },
+  {
+    "type": "file",
+    "name": "legion-services",
+    "label": "军团服务"
+  },
+  {
+    "type": "file",
+    "name": "alliance-services",
+    "label": "联盟服务"
+  }
+]

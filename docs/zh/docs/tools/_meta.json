@@ -1,0 +1,47 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "常用工具网站汇总"
+  },
+  {
+    "type": "file",
+    "name": "general",
+    "label": "一般信息"
+  },
+  {
+    "type": "file",
+    "name": "market",
+    "label": "市场类"
+  },
+  {
+    "type": "file",
+    "name": "pvp",
+    "label": "PVP 工具"
+  },
+  {
+    "type": "file",
+    "name": "pve",
+    "label": "PVE 工具"
+  },
+  {
+    "type": "file",
+    "name": "wormhole",
+    "label": "虫洞工具"
+  },
+  {
+    "type": "file",
+    "name": "industry",
+    "label": "工业类"
+  },
+  {
+    "type": "file",
+    "name": "other",
+    "label": "其他工具类"
+  },
+  {
+    "type": "file",
+    "name": "localization",
+    "label": "汉化"
+  }
+]

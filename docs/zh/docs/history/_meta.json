@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "历史的碎片"
+  },
+  {
+    "type": "file",
+    "name": "fuxi-winterco-community",
+    "label": "伏羲、凛冬与华人社区"
+  },
+  {
+    "type": "file",
+    "name": "eve-history",
+    "label": "欧服往事"
+  },
+  {
+    "type": "file",
+    "name": "official-lore",
+    "label": "官方背景故事"
+  }
+]

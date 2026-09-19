@@ -1,0 +1,37 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "伏羲天团奥姆尼珀腾斯圣殿"
+  },
+  {
+    "type": "dir",
+    "name": "getting-started",
+    "label": "开始你的 EVE 生涯"
+  },
+  {
+    "type": "dir",
+    "name": "community",
+    "label": "伏羲社区与服务"
+  },
+  {
+    "type": "dir",
+    "name": "history",
+    "label": "历史的碎片"
+  },
+  {
+    "type": "dir",
+    "name": "production",
+    "label": "时间就是金钱 - 生产指南"
+  },
+  {
+    "type": "dir",
+    "name": "combat",
+    "label": "枪杆子里出政权 – 战斗技巧"
+  },
+  {
+    "type": "dir",
+    "name": "tools",
+    "label": "常用工具网站汇总"
+  }
+]

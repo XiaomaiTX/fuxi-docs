@@ -3,34 +3,38 @@ import { defineConfig } from '@rspress/core';
 
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
-  title: 'My Site',
-  description: 'A multilingual Rspress documentation site.',
-  lang: 'en',
-  icon: '/rspress-icon.png',
+  title: '伏羲天团奥姆尼珀腾斯圣殿',
+  description: '伏羲（Fuxi Legion）EVE Online 欧服军团文档站点。',
+  lang: 'zh',
+  icon: '/fuxi-logo.png',
   logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
+    light: '/fuxi-logo.png',
+    dark: '/fuxi-logo.png',
   },
+  logoText: 'FUXI Legion',
   locales: [
     {
       lang: 'en',
       label: 'English',
-      title: 'My Site',
-      description: 'A multilingual Rspress documentation site.',
+      title: 'Fuxi Legion Omnipotence Temple',
+      description: 'Documentation for Fuxi Legion in EVE Online.',
     },
     {
       lang: 'zh',
       label: '简体中文',
-      title: '我的站点',
-      description: '一个多语言 Rspress 文档站点。',
+      title: '伏羲天团奥姆尼珀腾斯圣殿',
+      description: '伏羲（Fuxi Legion）EVE Online 欧服军团文档站点。',
     },
   ],
   themeConfig: {
+    editLink: {
+      docRepoBaseUrl: 'https://github.com/XiaomaiTX/fuxi-docs/tree/master/docs',
+    },
     socialLinks: [
       {
         icon: 'github',
         mode: 'link',
-        content: 'https://github.com/web-infra-dev/rspress',
+        content: 'https://github.com/XiaomaiTX/fuxi-docs',
       },
     ],
   },

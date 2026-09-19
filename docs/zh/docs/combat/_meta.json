@@ -1,0 +1,57 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "枪杆子里出政权 – 战斗技巧"
+  },
+  {
+    "type": "file",
+    "name": "fleet",
+    "label": "舰队战"
+  },
+  {
+    "type": "file",
+    "name": "small-gang",
+    "label": "小队战"
+  },
+  {
+    "type": "file",
+    "name": "scanning",
+    "label": "扫描与侦察"
+  },
+  {
+    "type": "file",
+    "name": "triglavian-space",
+    "label": "三神故土"
+  },
+  {
+    "type": "file",
+    "name": "solo-pvp",
+    "label": "单收技巧"
+  },
+  {
+    "type": "file",
+    "name": "skills",
+    "label": "技能规划"
+  },
+  {
+    "type": "file",
+    "name": "capital-ships",
+    "label": "旗舰操作"
+  },
+  {
+    "type": "file",
+    "name": "pvp-mechanics",
+    "label": "PVP 机制介绍"
+  },
+  {
+    "type": "file",
+    "name": "overheating",
+    "label": "超载与超载损害"
+  },
+  {
+    "type": "file",
+    "name": "ship-fitting",
+    "label": "船只配置"
+  }
+]

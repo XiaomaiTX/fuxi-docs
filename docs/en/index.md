@@ -12,9 +12,9 @@ hero:
       link: /guide/start/introduction
     - theme: alt
       text: GitHub
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/XiaomaiTX/fuxi-docs
   image:
-    src: /rspress-icon.png
+    src: /fuxi-logo.png
     alt: Logo
 features:
   - title: Blazing fast build speed

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "开始你的 EVE 生涯"
+  },
+  {
+    "type": "file",
+    "name": "client-and-account",
+    "label": "客户端下载与账号注册"
+  },
+  {
+    "type": "file",
+    "name": "monetization",
+    "label": "氪金与充值"
+  },
+  {
+    "type": "file",
+    "name": "gameplay-and-progression",
+    "label": "基础玩法与发展规划"
+  },
+  {
+    "type": "file",
+    "name": "new-player-basics",
+    "label": "新玩家基础知识"
+  },
+  {
+    "type": "file",
+    "name": "new-player-tips",
+    "label": "新手技巧"
+  }
+]
