@@ -10,12 +10,12 @@
     "activeMatch": "/rules/"
   },
   {
-    "text": "更新日志",
-    "link": "/changelog/",
-    "activeMatch": "/changelog/"
+    "text": "关于",
+    "link": "/about/",
+    "activeMatch": "/about/"
   },
   {
-    "text": "伏羲 Zkillboard",
+    "text": "Zkillboard",
     "link": "https://zkillboard.com/corporation/98185110/"
   }
 ]

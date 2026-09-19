@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "关于圣殿"
+  },
+  {
+    "type": "file",
+    "name": "changelog",
+    "label": "更新日志"
+  },
+  {
+    "type": "file",
+    "name": "contributing",
+    "label": "贡献指南"
+  }
+]
