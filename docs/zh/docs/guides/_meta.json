@@ -1,0 +1,22 @@
+[
+  {
+    "type": "dir",
+    "name": "combat",
+    "label": "战斗与舰队"
+  },
+  {
+    "type": "dir",
+    "name": "industry",
+    "label": "工业与制造"
+  },
+  {
+    "type": "dir",
+    "name": "trade",
+    "label": "贸易与市场"
+  },
+  {
+    "type": "dir",
+    "name": "exploration",
+    "label": "探索与活动"
+  }
+]
