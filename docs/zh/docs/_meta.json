@@ -11,6 +11,11 @@
   },
   {
     "type": "dir",
+    "name": "guides",
+    "label": "攻略教程"
+  },
+  {
+    "type": "dir",
     "name": "community",
     "label": "伏羲社区与服务"
   },
