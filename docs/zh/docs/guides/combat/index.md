@@ -16,7 +16,7 @@ description: EVE Online 战斗与舰队行动攻略，涵盖 PvE 战斗、PvP �
 
 ## 攻略列表
 
-本板块的攻略页面将陆续补充。
+- [炮台实用指南](/docs/guides/combat/turret/) — 伤害类型选择、近远程炮取舍、命中机制与炮系弹药差异
 
 ## 相关页面
 
