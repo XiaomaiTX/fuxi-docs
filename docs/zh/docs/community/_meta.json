@@ -6,6 +6,11 @@
   },
   {
     "type": "file",
+    "name": "pure-blind-community",
+    "label": "黑渊社区教程"
+  },
+  {
+    "type": "file",
     "name": "legion-services",
     "label": "军团服务"
   },
