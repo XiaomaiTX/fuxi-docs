@@ -44,6 +44,9 @@ List one or more names in **author**; do not put URLs or Markdown links there. A
 - Cite accessible source links in the body. Put source authors' names in **author**, not their URLs.
 - When adding content to an existing page, preserve all existing authors and their order, then append the new contributor if they wrote or substantially added content. Do not remove historical authors.
 - A Git commit author is not necessarily a content author. List someone only if they wrote or substantially edited the content.
+- When an article combines multiple complete articles, list each source article's author in **author**. At the end of the combined article, add a separate paragraph mapping each part to its author or source article.
+- When reproducing material from an external document, preserve its complete original attribution, including the author names, title, publication source, and any available link or date. Credit the original authors in **author**; do not replace them with the editor or republisher.
+- Editors may add objective context, such as noting that a passage reflects the original author's personal view and is not verified fact or official policy. Clearly label such additions as an "Editor's note" and separate them from the original text so readers can tell who wrote what.
 
 ## Organizing content
 

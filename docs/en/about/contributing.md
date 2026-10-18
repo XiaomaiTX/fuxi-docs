@@ -16,7 +16,7 @@ You do not need a GitHub account or any special tools. Fill out the [Fuxi Temple
 
 #### What happens after you submit feedback?
 
-1. **Claiming:** Documentation contributors review the form weekly and claim feedback by page.
+1. **Claiming:** The editorial team reviews questionnaire submissions periodically and claims feedback by page.
 2. **Verification:** For corporation rules, history, member information, or game mechanics, contributors may ask for sources. Unverifiable feedback will not be adopted.
 3. **Implementation:** The contributor who claims your feedback can submit a pull request (PR) for you or edit the page directly if they have access. You do not need to use Git.
 4. **Credit:** Substantial contributions that are adopted will be acknowledged in the changelog. Providing your in-game name means you agree to be credited; leave it blank to remain anonymous.
@@ -34,9 +34,9 @@ You do not need a GitHub account or any special tools. Fill out the [Fuxi Temple
 - **An adopted outline or draft:** The proposer is one of the content authors and should be listed in **author** according to the [Documentation Standards](./documentation-standards.md). The contributor who submits the PR is listed only if they also wrote or substantially edited the content.
 - The deciding factor is who wrote the text, not who suggested the idea. Before submitting, the contributor should confirm attribution with the proposer.
 
-#### Review schedule and reasons feedback may not be adopted
+#### Urgent feedback and reasons feedback may not be adopted
 
-Feedback is reviewed weekly. For urgent issues such as safety risks or serious factual errors, contact the corporation in its group chat.
+For urgent issues such as safety risks or serious factual errors, submit the details and supporting evidence through the [feedback form](https://docs.qq.com/form/page/DQmVPZ1RHakxvaEFh) first, then privately message a core contributor or editorial team member listed on the [About page](./index.md) to alert them.
 
 Common reasons feedback may not be adopted:
 
