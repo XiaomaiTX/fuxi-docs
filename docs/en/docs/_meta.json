@@ -1,0 +1,27 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "Fuxi Legion Omnipotence Temple"
+  },
+  {
+    "type": "dir",
+    "name": "getting-started",
+    "label": "Start Your EVE Career"
+  },
+  {
+    "type": "dir",
+    "name": "guides",
+    "label": "Guides and Tutorials"
+  },
+  {
+    "type": "dir",
+    "name": "community",
+    "label": "Fuxi Community and Services"
+  },
+  {
+    "type": "dir",
+    "name": "history",
+    "label": "History"
+  }
+]

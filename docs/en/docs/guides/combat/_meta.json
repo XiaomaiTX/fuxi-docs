@@ -1,0 +1,23 @@
+[
+  { "type": "file", "name": "index", "label": "Combat and Fleets" },
+  {
+    "type": "file",
+    "name": "domino-beacon",
+    "label": "Dominix Beacon Farming Guide"
+  },
+  {
+    "type": "file",
+    "name": "nullsec-farming",
+    "label": "Null-Sec Ratting Guide"
+  },
+  {
+    "type": "file",
+    "name": "mordus-burner-missions",
+    "label": "Mordu's Legion Burner Missions"
+  },
+  {
+    "type": "file",
+    "name": "turret",
+    "label": "Practical Turret Guide"
+  }
+]

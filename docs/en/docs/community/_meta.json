@@ -1,0 +1,14 @@
+[
+  { "type": "file", "name": "fuxi-community", "label": "Fuxi Community" },
+  {
+    "type": "file",
+    "name": "pure-blind-community",
+    "label": "Pure Blind Community Guide"
+  },
+  {
+    "type": "file",
+    "name": "legion-services",
+    "label": "Corporation Services"
+  },
+  { "type": "file", "name": "alliance-services", "label": "Alliance Services" }
+]

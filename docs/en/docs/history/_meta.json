@@ -1,0 +1,10 @@
+[
+  { "type": "file", "name": "index", "label": "Fragments of History" },
+  {
+    "type": "file",
+    "name": "fuxi-winterco-community",
+    "label": "Fuxi, WinterCo, and the Chinese Community"
+  },
+  { "type": "file", "name": "eve-history", "label": "Tranquility History" },
+  { "type": "file", "name": "official-lore", "label": "Official EVE Lore" }
+]

@@ -1,0 +1,10 @@
+[
+  { "type": "file", "name": "index", "label": "About the Temple" },
+  { "type": "file", "name": "changelog", "label": "Changelog" },
+  { "type": "file", "name": "contributing", "label": "Contributing" },
+  {
+    "type": "file",
+    "name": "documentation-standards",
+    "label": "Documentation Standards"
+  }
+]

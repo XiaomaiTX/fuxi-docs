@@ -1,16 +1,21 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/start/introduction",
-    "activeMatch": "/guide/"
+    "text": "Legion Docs",
+    "link": "/docs/",
+    "activeMatch": "/docs/"
   },
   {
-    "text": "API",
-    "link": "/api/",
-    "activeMatch": "/api/"
+    "text": "Corporation Rules",
+    "link": "/rules/",
+    "activeMatch": "/rules/"
   },
   {
-    "text": "Document",
-    "link": "https://rspress.rs/"
+    "text": "About",
+    "link": "/about/",
+    "activeMatch": "/about/"
+  },
+  {
+    "text": "Zkillboard",
+    "link": "https://zkillboard.com/corporation/98185110/"
   }
 ]

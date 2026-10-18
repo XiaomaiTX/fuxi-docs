@@ -1,0 +1,23 @@
+[
+  { "type": "file", "name": "eve-overview", "label": "Introducing EVE Online" },
+  {
+    "type": "file",
+    "name": "client-and-account",
+    "label": "Client, Accounts, and Game Accelerators"
+  },
+  {
+    "type": "file",
+    "name": "factions-and-fuxi",
+    "label": "Major Factions and Fuxi Legion"
+  },
+  {
+    "type": "file",
+    "name": "first-login-and-development",
+    "label": "Your First Login and Development Path"
+  },
+  {
+    "type": "file",
+    "name": "services-and-communication",
+    "label": "SeAT and Voice Comms"
+  }
+]

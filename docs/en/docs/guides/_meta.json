@@ -1,0 +1,6 @@
+[
+  { "type": "dir", "name": "combat", "label": "Combat and Fleets" },
+  { "type": "dir", "name": "industry", "label": "Industry and Manufacturing" },
+  { "type": "dir", "name": "trade", "label": "Trade and Markets" },
+  { "type": "dir", "name": "exploration", "label": "Exploration and Events" }
+]
