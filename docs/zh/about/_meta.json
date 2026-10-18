@@ -13,5 +13,10 @@
     "type": "file",
     "name": "contributing",
     "label": "贡献指南"
+  },
+  {
+    "type": "file",
+    "name": "documentation-standards",
+    "label": "文档编写规范"
   }
 ]
