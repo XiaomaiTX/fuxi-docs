@@ -27,6 +27,7 @@ export default defineConfig({
     },
   ],
   themeConfig: {
+    lastUpdated: true,
     editLink: {
       docRepoBaseUrl: 'https://github.com/XiaomaiTX/fuxi-docs/tree/main/docs',
     },
