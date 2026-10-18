@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 联盟服务
 description: 伏羲所在联盟（凛冬 / WinterCo）为成员提供的账号认证、通信、物流、军事与治理服务总览。
 ---

@@ -1,4 +1,5 @@
 ---
+author: Hugyyyy
 description: Create Rspress custom containers for tips, info, warnings, dangers, details, and custom titles.
 ---
 

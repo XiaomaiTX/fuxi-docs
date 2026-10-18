@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 探索与活动
 description: EVE Online 探索与活动攻略，涵盖空间信号扫描、虫洞指南、特殊任务与版本活动。
 ---

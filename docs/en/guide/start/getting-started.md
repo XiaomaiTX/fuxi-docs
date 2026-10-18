@@ -1,4 +1,5 @@
 ---
+author: Hugyyyy
 description: Set up an Rspress project, run local development, build production output, and choose next docs topics.
 ---
 

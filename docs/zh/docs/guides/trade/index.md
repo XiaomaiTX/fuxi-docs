@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 贸易与市场
 description: EVE Online 贸易与市场经营攻略，涵盖市场交易、快递与运输、合同须知、市场工具与商业进阶。
 ---

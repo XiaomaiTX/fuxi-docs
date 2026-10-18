@@ -1,4 +1,5 @@
 ---
+author: Hugyyyy
 description: Introduction to Rspress features, including build performance, AI-native output, MDX, and extensibility.
 ---
 

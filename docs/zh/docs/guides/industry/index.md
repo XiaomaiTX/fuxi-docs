@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 工业与制造
 description: EVE Online 工业与制造攻略，涵盖采矿、提炼与反应、制造、行星工业与工业设施。
 ---

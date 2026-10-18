@@ -1,4 +1,5 @@
 ---
+author: Hugyyyy
 title: 贡献指南
 description: 伏羲天团奥姆尼珀腾斯圣殿文档贡献指南。
 ---
@@ -26,9 +27,41 @@ description: 伏羲天团奥姆尼珀腾斯圣殿文档贡献指南。
 
 - 中文文档位于 `docs/zh/` 目录。
 - 普通文本页面使用 `.md` 文件；需要 React 组件或其他 MDX 能力时使用 `.mdx` 文件。
-- 页面应保留 `title` 和 `description` frontmatter。
+- 每篇文档的 frontmatter 必须包含 `title`、`description` 和 `author`；`author` 只填写一个或多个内容作者名称，不填写链接。内容作者显示在标题下方、正文上方，最后更新信息仍显示 Git 提交者。
 - 使用清晰的标题层级、列表、表格和带语言标记的代码块。
 - 不要修改 `doc_build/` 中的构建产物；只修改 `docs/` 中的源文件。
+
+例如：
+
+```yaml
+---
+title: 页面标题
+description: 页面说明
+author: 内容作者的玩家名
+---
+```
+
+有多位作者时，使用 YAML 列表：
+
+```yaml
+author:
+  - 作者一
+  - 作者二
+```
+
+填写作者时遵循以下规则：
+
+- 新建原创文档时，将实际撰写者的名称写入 `author`。
+- 新文档主要转载、翻译或改编自其他作者的资料时，在 `author` 中注明原作者名称；如果同时加入了实质性的原创内容，也将实际撰写者列入 `author`。不要把 Git 提交者当作内容作者。
+- 在已有文档上继续补充内容时，保留 frontmatter 中已有的全部作者名称，并将本次内容贡献者追加到列表末尾；不要覆盖、删除或调整历史作者。
+
+例如，已有作者“作者一”的文档由“作者二”继续补充后：
+
+```yaml
+author:
+  - 作者一
+  - 作者二
+```
 
 ## 二、文档贡献者：Fork + Git 提交 PR
 
@@ -145,4 +178,4 @@ pnpm run lint
 pnpm run build
 ```
 
-其中 `pnpm run format` 使用 Prettier 格式化项目文件，`pnpm run lint` 执行 ESLint 静态检查，`pnpm run build` 执行 Rspress 生产构建。普通贡献者不必为了完成基础编辑而安装这些工具，提交到 `preview` 后由自动化流程进行最终构建验证。
+其中 `pnpm run format` 使用 Prettier 格式化项目文件，`pnpm run lint` 执行 ESLint 检查并验证每篇文档都有一个或多个非空作者名称，`pnpm run build` 在构建 Rspress 前也会执行作者字段校验。普通贡献者不必为了完成基础编辑而安装这些工具，提交到 `preview` 后由自动化流程进行最终构建验证。

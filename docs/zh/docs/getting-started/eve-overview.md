@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 认识 EVE Online
 description: EVE Online 是什么游戏，以及新玩家可以在其中做什么的入门介绍。
 ---

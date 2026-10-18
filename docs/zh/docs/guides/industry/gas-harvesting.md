@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 挖气教程
 description: 气云采集（挖气）的技能与舰船要求、气云信号刷新规律、操作方法、地点与产出。
 ---

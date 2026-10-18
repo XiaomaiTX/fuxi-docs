@@ -1,4 +1,5 @@
 ---
+author: Hugyyyy
 description: Add metadata such as line numbers, wrapping, and titles to Rspress code blocks.
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 莫德团燃烧任务教程
 description: 莫德团（Mordu's Legion）四级任务与燃烧任务的声望准备、收益、舰船配置与各任务打法，并附姐妹会任务说明。
 ---

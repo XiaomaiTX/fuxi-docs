@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 客户端、账号与加速器
 description: EVE Online 客户端下载、账号注册、军团注册链接与加速器使用的入门指南。
 ---

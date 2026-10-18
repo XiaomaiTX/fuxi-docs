@@ -1,4 +1,5 @@
 ---
+author: Fr0zenmn
 title: 黑渊社区教程
 description: 黑渊（Pure Blind）星域的生产地图、死亡克隆集结点、新人生产方式推荐、语音导航，以及军团回收与联系入口。
 ---

@@ -1,4 +1,5 @@
 ---
+author: Hugyyyy
 title: 绑定 SeAT 与加入语音
 description: 新玩家绑定联盟 SeAT、军团 SeAT 并加入语音服务器的入门框架。
 ---

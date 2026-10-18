@@ -1,4 +1,5 @@
 ---
+author: Hugyyyy
 description: Add file titles to Rspress code blocks using Markdown code fence metadata.
 ---
 
