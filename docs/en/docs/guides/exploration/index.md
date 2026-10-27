@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Exploration and Events
 description: EVE Online exploration guides covering scanning, wormholes, special missions, and seasonal events.
 ---

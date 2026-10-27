@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Alliance Services
 description: An overview of account verification, communications, logistics, military services, and governance provided by Winter Coalition, where Fuxi is a member corporation.
 ---

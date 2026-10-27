@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: 文档编写规范
 description: 伏羲天团文档的目录、frontmatter、作者署名、内容组织与来源引用规范。
 ---
@@ -24,6 +25,7 @@ description: 伏羲天团文档的目录、frontmatter、作者署名、内容�
 title: 页面标题
 description: 页面说明
 author: 内容作者名称
+llm_owned: false
 ---
 ```
 
@@ -36,6 +38,20 @@ author:
 ```
 
 `author` 只写一个或多个作者名称，不写 URL 或 Markdown 链接。作者名称会显示在文章标题下方。
+
+### AI 参与标记
+
+每篇文档还需要一个 `llm_owned` 字段，说明正文是否由 AI 起草：
+
+```yaml
+llm_owned: false # 人类起草（含人类原稿的整理、转录、翻译）
+llm_owned: true # 正文由 AI 起草，人工审阅后发布
+```
+
+- **只按正文起草方式判断**，与作者署名无关：人工整理的转载文章仍为 `false`
+- AI 只做了校对、加注、格式转换的，仍写 `false`
+- AI 起草了正文主体（哪怕后续人工修改），写 `true`
+- 该字段只用于标注来源与责任，不影响页面渲染
 
 ### 作者署名
 

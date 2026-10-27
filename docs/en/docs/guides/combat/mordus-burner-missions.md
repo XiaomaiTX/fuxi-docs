@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: Mordu's Legion Burner Mission Guide
 description: Standing requirements, income, ship fits, and walkthroughs for Mordu's Legion Level 4 and Burner missions, plus a note on Sisters of EVE missions.
 ---

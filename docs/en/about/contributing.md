@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Contributing
 description: How to contribute documentation through a feedback form, web editing, pull requests, site improvements, and review.
 ---

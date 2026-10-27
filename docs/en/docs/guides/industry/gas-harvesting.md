@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: Gas Harvesting Guide
 description: Skill and ship requirements, gas-site respawns, harvesting techniques, site selection, and income.
 ---

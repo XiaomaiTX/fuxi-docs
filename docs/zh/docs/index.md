@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: 伏羲天团奥姆尼珀腾斯圣殿
 description: 伏羲（Fuxi Legion）在 EVE Online 欧服的玩家组织军团介绍。
 ---

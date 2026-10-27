@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: 开启你的 EVE 生涯
 description: 伏羲军团新玩家从认识 EVE 到完成起步准备的入门文档目录。
 ---

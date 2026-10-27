@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Combat and Fleets
 description: EVE Online combat and fleet guides covering PvE, PvP, fleet operations, and ship fittings.
 ---

@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Industry and Manufacturing
 description: EVE Online industry guides covering mining, reactions, manufacturing, Planetary Industry, and industrial structures.
 ---

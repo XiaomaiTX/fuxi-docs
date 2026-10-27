@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 description: The official documentation site for Fuxi Legion in EVE Online.
 pageType: home
 

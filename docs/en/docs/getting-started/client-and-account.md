@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Client, Accounts, and Game Accelerators
 description: How to download the EVE Online client, create an account through Fuxi's recruitment link, and use a game accelerator.
 ---

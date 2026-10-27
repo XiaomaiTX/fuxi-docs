@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: Null-Sec Ratting Guide
 description: Ship and fitting principles, Vexor Rally Point and Ishtar Small Haven ratting, skill requirements, and income estimates for null-sec.
 ---

@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: About the Temple
 description: About the Fuxi Legion Omnipotence Temple.
 ---

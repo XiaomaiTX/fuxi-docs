@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Practical Turret Guide
 description: A practical guide to turret damage types, range, tracking, hit chance, damage calculations, weapon systems, and ammunition in EVE Online.
 ---

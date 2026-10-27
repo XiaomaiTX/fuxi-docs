@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Your First Login and Development Path
 description: An outline of what to learn on your first login, Fuxi activities, suggested progression, and new-member benefits.
 ---

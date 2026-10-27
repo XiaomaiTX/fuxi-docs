@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Documentation Standards
 description: Standards for document structure, frontmatter, author credits, content organization, and source citations in the Fuxi Legion documentation.
 ---

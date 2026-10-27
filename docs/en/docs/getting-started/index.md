@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Start Your EVE Career
 description: A guided path for new Fuxi members, from learning about EVE to preparing for your first steps.
 ---

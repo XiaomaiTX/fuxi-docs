@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Fuxi Legion Omnipotence Temple
 description: An introduction to Fuxi Legion, a player-run corporation in EVE Online on Tranquility.
 ---

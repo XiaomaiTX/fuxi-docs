@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: 贡献指南
 description: 了解如何通过问卷、网页编辑、Pull Request、站点改进或审核来贡献文档。
 ---

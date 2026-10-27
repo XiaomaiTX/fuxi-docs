@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Major Factions and Fuxi Legion
 description: An introduction to EVE Online's major factions and Fuxi Legion.
 ---

@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Guides and Tutorials
 description: EVE Online guides written by Fuxi members, covering combat and fleets, industry, trade, and exploration.
 ---

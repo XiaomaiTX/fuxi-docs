@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: Dominix Beacon Farming Guide
 description: A guide to using a Dominix squad to rat carrier beacons, with cost and income estimates, fittings, setup, and procedures.
 ---

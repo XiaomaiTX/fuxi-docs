@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Fuxi Community and Services
 description: An index of Fuxi's community, corporation services, and alliance services.
 ---

@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Official EVE Lore
 description: Material about EVE Online's official lore.
 ---
