@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: 战斗与舰队
 description: EVE Online 战斗与舰队行动攻略，涵盖 PvE 战斗、PvP 交战、舰队行动与舰船配置。
 ---

@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: 认识大势力与伏羲军团
 description: EVE Online 主要势力与伏羲军团简介的入门框架。
 ---

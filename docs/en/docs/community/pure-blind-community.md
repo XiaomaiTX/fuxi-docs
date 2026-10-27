@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Pure Blind Community Guide
 description: The Pure Blind production map, home station setup, income options for new members, voice channels, and corporation buyback contacts.
 ---

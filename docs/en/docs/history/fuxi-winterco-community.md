@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: Fuxi, WinterCo, and the Chinese Community
 description: Historical material about Fuxi, Winter Coalition, and the Chinese EVE community.
 ---

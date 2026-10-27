@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: Relic Running Guide
 description: An outline for relic and data site hacking in null-sec and wormhole space, including skills, location selection, and site types.
 ---

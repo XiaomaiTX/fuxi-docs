@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: Market Systems
 description: A guide to the main trade systems and markets where Fuxi members can buy and sell in EVE Online.
 ---

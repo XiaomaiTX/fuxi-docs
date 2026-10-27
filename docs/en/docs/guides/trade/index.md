@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Trade and Markets
 description: EVE Online trading guides covering market orders, hauling, contracts, market tools, and commercial ventures.
 ---

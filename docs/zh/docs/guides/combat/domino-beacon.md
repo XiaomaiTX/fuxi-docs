@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: 多米刷标攻略
 description: 用多米尼克斯级（Dominix，俗称"多米"）小队自动刷航母信号标的完整攻略：成本、收益、配置、点位与操作流程。
 ---
