@@ -13,5 +13,30 @@
     "type": "file",
     "name": "official-lore",
     "label": "官方背景故事"
+  },
+  {
+    "type": "file",
+    "name": "chinese-community-history",
+    "label": "欧服华人势力发展简史"
+  },
+  {
+    "type": "file",
+    "name": "frt-alliance-history",
+    "label": "世界服华人联盟发展史（FRT 视角）"
+  },
+  {
+    "type": "file",
+    "name": "winter-2019-war-report",
+    "label": "凛冬 2019 春季战报"
+  },
+  {
+    "type": "file",
+    "name": "fall-of-aom-rr",
+    "label": "帝国的意志"
+  },
+  {
+    "type": "file",
+    "name": "fuxi-legion-history",
+    "label": "伏羲军团的历程"
   }
 ]

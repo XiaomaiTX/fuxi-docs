@@ -18,5 +18,10 @@
     "type": "file",
     "name": "alliance-services",
     "label": "联盟服务"
+  },
+  {
+    "type": "file",
+    "name": "alliance-rules-for-newcomers",
+    "label": "新人常触犯的联盟规则"
   }
 ]
