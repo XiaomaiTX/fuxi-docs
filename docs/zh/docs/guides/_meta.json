@@ -18,5 +18,10 @@
     "type": "dir",
     "name": "exploration",
     "label": "探索与活动"
+  },
+  {
+    "type": "file",
+    "name": "archive",
+    "label": "旧文档归档（附件）"
   }
 ]
