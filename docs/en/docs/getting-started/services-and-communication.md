@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: SeAT and Voice Comms
 description: An introduction to setting up alliance and corporation SeAT access and joining voice comms.
 ---

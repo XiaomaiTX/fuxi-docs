@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Corporation Services
 description: Corporation services available to Fuxi Legion members.
 ---

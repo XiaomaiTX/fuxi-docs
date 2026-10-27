@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: false
 title: 00 地区刷怪教程
 description: 00 地区刷怪的配置思路、狂怒者级集会点与伊什塔级小避难打法、技能要求与收益参考。
 ---

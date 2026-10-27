@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: Introducing EVE Online
 description: An introduction to EVE Online, its sandbox gameplay, and the activities open to new players.
 ---

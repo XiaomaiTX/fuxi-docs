@@ -1,5 +1,6 @@
 ---
 author: Hugyyyy
+llm_owned: false
 title: 军团规定
 description: 伏羲军团规定文档。
 ---

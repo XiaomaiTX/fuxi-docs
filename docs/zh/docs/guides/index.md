@@ -1,5 +1,6 @@
 ---
 author: Fr0zenmn
+llm_owned: true
 title: 攻略教程
 description: 伏羲军团成员整理的 EVE Online 玩法攻略与教程目录，涵盖战斗与舰队、工业与制造、贸易与市场、探索与活动四个方向。
 ---
