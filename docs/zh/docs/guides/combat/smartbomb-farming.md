@@ -1,5 +1,6 @@
 ---
 author: MaasehMerkabah
+llm_owned: false
 title: 立体炸弹刷怪（炸鱼）入门到精通
 description: 用立体炸弹清理聚集 NPC 的刷怪方案：配置思路、星系选择、收益区间与常见误区。
 ---

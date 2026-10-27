@@ -1,5 +1,6 @@
 ---
 author: 伏羲军团
+llm_owned: false
 title: 00 地区报点规范
 description: 异常空间归属判定、报点流程、打捞与 MTU 规则，以及常见纠纷的处理依据。
 ---

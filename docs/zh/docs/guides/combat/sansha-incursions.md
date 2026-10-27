@@ -1,5 +1,6 @@
 ---
 author: 伏羲军团
+llm_owned: false
 title: 萨沙入侵基础
 description: 萨沙入侵的机制说明：星系分级、压制条、副本与收益结算，含数据时点与待核项标注。
 ---

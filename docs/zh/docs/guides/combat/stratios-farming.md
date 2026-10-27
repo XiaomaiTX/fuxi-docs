@@ -1,5 +1,6 @@
 ---
 author: 梦幻
+llm_owned: false
 title: 斯特修斯级（中白）刷怪配置与打法
 description: 从毒蜥级过渡到伊什塔级的无人机刷怪方案：斯特修斯级配置、技能要求与实操心法。
 ---
