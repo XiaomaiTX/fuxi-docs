@@ -29,13 +29,13 @@ Choose drones that match the ship's damage bonuses and the NPCs' weakest resista
 
 ### General fits
 
-### Vexor fit
+#### Vexor fit
 
 Basic new-player ratting fit provided by the corporation; adjust it as appropriate.
 
 ![Vexor ratting fit](/images/nullsec-farming/02-ship-fitting-01.webp)
 
-### Ishtar fits
+#### Ishtar fits
 
 Basic full Tech II Ishtar fit ("YST"); adjust as needed.
 

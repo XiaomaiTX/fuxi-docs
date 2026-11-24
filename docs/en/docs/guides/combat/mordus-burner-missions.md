@@ -81,7 +81,14 @@ New-player recommendation:
 
 ![Damsel in Distress mission](/images/mordus/03-level4-04.webp)
 
-**Procedure:** Warp to the mission at 100 km. You will see two identical structures. Lock and destroy the structure beneath the circled space icon to complete the objective. Destroying it spawns another wave of NPCs, including Zor. Kill Zor and bookmark the wreck. After turning in the mission, return to loot it; the wreck is worth at least 10M ISK.
+**Procedure:**
+
+1. Warp to the mission at 100 km.
+2. You will see two identical structures.
+3. Lock and destroy the structure beneath the circled space icon to complete the objective.
+4. Destroying it spawns another wave of NPCs, including Zor.
+5. Kill Zor and bookmark the wreck.
+6. After turning in the mission, return to loot it; the wreck is worth at least 10M ISK.
 
 ![Mission structure and Zor](/images/mordus/03-level4-05.webp)
 
@@ -91,7 +98,13 @@ New-player recommendation:
 
 ![The Right Hand mission target](/images/mordus/03-level4-07.webp)
 
-**Procedure:** Warp in at 100 km and orbit the structure at 110 km. Keep your lock range and missile range in mind. Kill Zor first, then destroy the structure. Bookmark Zor's wreck, move 150 km away, then warp back to loot it. The wreck is worth at least 10M ISK.
+**Procedure:**
+
+1. Warp in at 100 km and orbit the structure at 110 km.
+2. Keep your lock range and missile range in mind.
+3. Kill Zor first, then destroy the structure.
+4. Bookmark Zor's wreck, move 150 km away, then warp back to loot it.
+5. The wreck is worth at least 10M ISK.
 
 #### 3. Relic objective (Ishtar, approach the structure and use drones)
 
@@ -105,7 +118,11 @@ New-player recommendation:
 
 ![Guristas Spy mission](/images/mordus/03-level4-10.webp)
 
-**Procedure:** After the first NPC wave spawns, use **Q** to move the Ishtar in the direction shown by the arrow. The target appears in the third wave and is circled in the image. Destroy all marked targets to complete the mission.
+**Procedure:**
+
+1. After the first NPC wave spawns, use **Q** to move the Ishtar in the direction shown by the arrow.
+2. The target appears in the third wave and is circled in the image.
+3. Destroy all marked targets to complete the mission.
 
 ![Guristas Spy target](/images/mordus/03-level4-11.webp)
 
@@ -119,7 +136,10 @@ New-player recommendation:
 
 ![Stop the Thief mission wave](/images/mordus/03-level4-15.webp)
 
-**Procedure:** Enter the pocket and destroy the nearest battleship. A group of NPCs will spawn; destroy the Shadow to complete the mission.
+**Procedure:**
+
+1. Enter the pocket and destroy the nearest battleship.
+2. A group of NPCs will spawn; destroy the Shadow to complete the mission.
 
 #### 6. Two Rogues (Ishtar, destroy the marked targets)
 
@@ -127,7 +147,10 @@ New-player recommendation:
 
 ![Two Rogues mission loot](/images/mordus/03-level4-17.webp)
 
-**Procedure:** Destroy the two battleship NPCs in the mission pocket. Loot the dropped container to collect the special delivery.
+**Procedure:**
+
+1. Destroy the two battleship NPCs in the mission pocket.
+2. Loot the dropped container to collect the special delivery.
 
 It is also recommended to destroy the two drones, which can web you.
 
@@ -135,13 +158,13 @@ It is also recommended to destroy the two drones, which can web you.
 
 You can slowly clear most regular Level 4 missions in an Ishtar. Some are difficult; decline those missions instead.
 
-![Regular Level 4 mission](/images/mordus/03-level4-18.webp)
+![Level 4 mission briefing showing objectives and rewards](/images/mordus/03-level4-18.webp)
 
-![Regular Level 4 mission](/images/mordus/03-level4-19.webp)
+![Level 4 mission briefing with two objectives and a reward panel](/images/mordus/03-level4-19.webp)
 
-![Regular Level 4 mission](/images/mordus/03-level4-20.webp)
+![Level 4 mission offer with an objective, rewards, and bonus rewards](/images/mordus/03-level4-20.webp)
 
-![Regular Level 4 mission](/images/mordus/03-level4-21.webp)
+![Level 4 mission briefing with multiple objectives and reward entries](/images/mordus/03-level4-21.webp)
 
 This guide does not list every Level 4 mission. Running through them all can be rewarding.
 
@@ -159,7 +182,13 @@ The drawback is the skill investment: you need racial Frigate V for three factio
 
 ![Anomic Team fit](/images/mordus/03-level4-22.webp)
 
-**Procedure:** Activate orbit. After landing, turn on your propulsion module and stay about 25 km from the primary NPC. Open fire. The fit needs more than 280 DPS against the target.
+**Procedure:**
+
+1. Activate orbit.
+2. After landing, turn on your propulsion module and stay about 25 km from the primary NPC.
+3. Open fire.
+
+The fit needs more than 280 DPS against the target.
 
 Recommended Anomic Team fit for new players:
 
@@ -179,7 +208,13 @@ Video guide: <https://www.bilibili.com/video/BV1Hm4y1q7BD/>
 
 ![Enyo fit for a Guristas agent](/images/mordus/03-level4-25.webp)
 
-**Procedure:** Activate orbit and pre-overheat your propulsion module. Approach with propulsion active and apply your warp scrambler. Turn off propulsion and stop overheating, then keep firing. If the propulsion module burns out and you have not scrammed the target, launch drones and align out. Warp off immediately if the NPC switches aggro to you.
+**Procedure:**
+
+1. Activate orbit and pre-overheat your propulsion module.
+2. Approach with propulsion active and apply your warp scrambler.
+3. Turn off propulsion and stop overheating, then keep firing.
+4. If the propulsion module burns out and you have not scrammed the target, launch drones and align out.
+5. Warp off immediately if the NPC switches aggro to you.
 
 **Blood Raider agent — Wolf**
 
@@ -210,7 +245,11 @@ General procedure:
 
 This approach works for Anomic Team and most Anomic Agent missions, except Guristas. At the Blood Raider acceleration gate, activate only your resist modules; do not panic when you land.
 
-**Guristas agent procedure:** Activate the acceleration gate. On landing, approach the Burner with your propulsion module active. Turn on overheat for the second cycle (do not overheat the first), apply your scrambler, and destroy the target.
+**Guristas agent procedure:**
+
+1. Activate the acceleration gate.
+2. On landing, approach the Burner with your propulsion module active.
+3. Turn on overheat for the second cycle (do not overheat the first), apply your scrambler, and destroy the target.
 
 ![Guristas Burner target](/images/mordus/03-level4-29.webp)
 
