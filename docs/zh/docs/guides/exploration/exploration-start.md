@@ -23,65 +23,65 @@ _alt+P打开探测扫描器可以看到_
 
 红色上面那个是过滤器，数字1左边就是异常，数字2左边是我们要扫的信号，点一下×过滤。
 
-一、遗迹(relic site)就两种：
+## 一、遗迹(relic site)就两种：
 
-**1. 海盗点（****Crumbling/Decayed/Ruined—海盗势力名---XX****）**
+### 1. 海盗点（Crumbling/Decayed/Ruined—海盗势力名---XX）
 
 （Crumbling：高安；Decayed：低安；Ruined：00、洞里（1、2、3级））
 
-**2. 冬眠（Forgotten--Perimeter/Frontier/Core--XX）**
+### 2. 冬眠（Forgotten--Perimeter/Frontier/Core--XX）
 
 （只有洞里有）
 
-二、数据点（data site）可以分为：
+## 二、数据点（data site）可以分为：
 
-**1．海盗点(Local/Regional/Central—海盗势力--XX)**
+### 1．海盗点(Local/Regional/Central—海盗势力--XX)
 
-1）Local开头在高安，Regional开头在低安，Central开头在00或者洞里
+1. Local开头在高安，Regional开头在低安，Central开头在00或者洞里
 
-2）海盗势力：Angel Cartel-天使、Blood Raiders—血骷髅、Guristas-兔子、Serpentis-蛇、Sansha's Nation-萨沙）
+2. 海盗势力：Angel Cartel-天使、Blood Raiders—血骷髅、Guristas-兔子、Serpentis-蛇、Sansha's Nation-萨沙）
 
-3）高安（high）指安全系数1.0~05的星系、低安(low)指0.4~0.1的星系、00(null)负等星系、洞里指穿过虫洞到达不在地图的星系）
+3. 高安（high）指安全系数1.0~05的星系、低安(low)指0.4~0.1的星系、00(null)负等星系、洞里指穿过虫洞到达不在地图的星系）
 
-（我一般把在地图上的星系叫正常空间，洞里叫虫洞空间）
+   （我一般把在地图上的星系叫正常空间，洞里叫虫洞空间）
 
-**2．无人机点（Abandoned Research Complex--XX）**
+### 2．无人机点（Abandoned Research Complex--XX）
 
 （分布在00的无人机区，即地图的东北角）
 
-**3．冬缓（****Limited/Standard/Superior Sleeper Cache****）**
+### 3．冬缓（Limited/Standard/Superior Sleeper Cache）
 
 (限冬/标冬/超冬；只分布在正常空间，即洞里没有）
 
-a)限冬IV级数据，85.8扫描强度
-
-b)标冬IV级数据，92扫描强度
-
-c)超冬V级数据，104扫描强度！
+- a)限冬IV级数据，85.8扫描强度
+- b)标冬IV级数据，92扫描强度
+- c)超冬V级数据，104扫描强度！
 
 注意：强度技能满，小白+姐妹发射器+姐妹探针只有44*1.25*1.25*1.375*1.1=103.984，而面板会显示104，你不带中槽强度增强装备或没强度脑插会扫不出超冬，以上均在极限微调的情况下扫描
 
 ![image2](/images/exploration-start/image2.webp)
 
+:::warning
 面板是错的，以右下为准。
+:::
 
-**4、隐蔽/幽灵（****Lesser/Standard/Improved/Superior—海盗势力名--Covert Research Facility****）**
+### 4、隐蔽/幽灵（Lesser/Standard/Improved/Superior—海盗势力名--Covert Research Facility）
 
 （III级数据，限隐/标隐/改进(提高)隐/超隐）
 
-1）Lesser：只分布高安，破译失败箱子爆炸，6000爆炸属性伤害，离箱子10km爆炸没事；时间到了会来怪，怪会打爆箱子，也有爆炸伤害，怪有一点反和网子，时间不定
+1. Lesser：只分布高安，破译失败箱子爆炸，6000爆炸属性伤害，离箱子10km爆炸没事；时间到了会来怪，怪会打爆箱子，也有爆炸伤害，怪有一点反和网子，时间不定
 
-2）Standard：只分布在低安，8000爆炸属性伤害，其他同上
+2. Standard：只分布在低安，8000爆炸属性伤害，其他同上
 
-3）Improved：只分布在00，1w爆炸属性伤害，同上
+3. Improved：只分布在00，1w爆炸属性伤害，同上
 
-4）Superior：只分布在洞里，1.2w爆炸属性伤害，同上
+4. Superior：只分布在洞里，1.2w爆炸属性伤害，同上
 
-**5、冬眠（Unsecured--Perimeter/Frontier/Core--XX）**
+### 5、冬眠（Unsecured--Perimeter/Frontier/Core--XX）
 
 （只有洞里有）
 
-三、气云(gas site)有三种：
+## 三、气云(gas site)有三种：
 
 - **Nebulae（--Nebula）**
 
@@ -93,17 +93,14 @@ c)超冬V级数据，104扫描强度！
 
 （洞里）
 
-**3、海盗点（****海盗势力名--Chemical Lab/Gas Processing Site、--药名--Distribution Base/Production Facility、Digital--****）**
+- 3、海盗点（海盗势力名--Chemical Lab/Gas Processing Site、--药名--Distribution Base/Production Facility、Digital--）
 
-1）在特定星域，详情见文末附图
+  1. 在特定星域，详情见文末附图
+  2. III级和IV级气云信号，第一种为三级气云信号，第二种为四级气云信号，第三种似乎是三级或者四级的战斗信号
+  3. 第一种、第二种在低安，第二、三种在00。
+  4. 前两种为的挖坟箱子在开放空间，有怪或者有炮塔或者有毁电也有可能只有箱子，第三种类似于死亡空间，有轨道的，不同层有对应的箱子（数量较多）
 
-2）III级和IV级气云信号，第一种为三级气云信号，第二种为四级气云信号，第三种似乎是三级或者四级的战斗信号
-
-3）第一种、第二种在低安，第二、三种在00。
-
-4）前两种为的挖坟箱子在开放空间，有怪或者有炮塔或者有毁电也有可能只有箱子，第三种类似于死亡空间，有轨道的，不同层有对应的箱子（数量较多）
-
-下面来说收益：
+## 下面来说收益：
 
 数据点：海盗点穷、无人机点没去过（要下00）不知道、冬缓（标冬脸黑20m+,脸好200m+）、隐蔽（标隐100m+很正常，高隐超隐看脸是不是出值钱的图纸，最值钱的是6号高级脑插蓝图大约几b的价值）、冬眠是怪比箱子值钱。
 
@@ -113,7 +110,7 @@ c)超冬V级数据，104扫描强度！
 
 **综上，我们的目标是00洞里的海盗遗迹、全空间隐秘、正常空间的冬缓，海盗气云。**
 
-**下面来说新人怎么赚取第一桶金：//苍鹭视频待定**
+## 下面来说新人怎么赚取第一桶金：//苍鹭视频待定
 
 **限冬细节补充//待定**
 
@@ -123,15 +120,17 @@ c)超冬V级数据，104扫描强度！
 
 **幽灵坟细节补充//待定**
 
-**附上我开幽灵的配置：**
+### 附上我开幽灵的配置：
 
 ![image3](/images/exploration-start/image3.webp)
 
+:::warning
 **开雷区把爆抗换成t2全抗、确定要开雷区箱子把2点反换成遗迹分析仪**
+:::
 
-值钱图纸：
+## 值钱图纸：
 
-偏振系列：
+### 偏振系列：
 
 ![小中子](/images/exploration-start/image4.webp)
 
@@ -149,19 +148,19 @@ _火箭_
 
 _鱼雷_
 
-我造出来一流程的利润：
+### 我造出来一流程的利润：
 
 ![image8](/images/exploration-start/image8.webp)
 
 （原料直接在吉他买，造出来最低价卖，税、订单费技能双四，在吉他隔壁Sobaseki超大型工程综合体造（星系税7.3%））
 
-故事线系列：
+### 故事线系列：
 
 ![image9](/images/exploration-start/image9.webp)
 
 还有一些赚钱的故事线装备没有列出来；上面故事线有些可能只在lp商店有。
 
-气云补充：
+## 气云补充：
 
 ![image10](/images/exploration-start/image10.webp)
 

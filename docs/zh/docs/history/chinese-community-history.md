@@ -25,6 +25,8 @@ description: 欧服华人从零散个体到成规模联盟的发展脉络，含�
 
 感谢lulu奶爸、flybee、令狐冲、极端荣耀等玩家的记录帖，感谢天鹅、HY等老玩家的口述和补充。
 
+## 早期华人玩家与联盟
+
 2003年
 
 EVE在欧洲上线，世界各地的大量玩家涌入并开始探索这个未知的宇宙。其中也包括零星的华人玩家。但由于语言问题和网络问题，国内玩家参与的很少，仅留的一些也散落在宇宙各地，相互不知道彼此的存在。
@@ -37,7 +39,7 @@ EVE在欧洲上线，世界各地的大量玩家涌入并开始探索这个未�
 
 这种情况随着汉化包的横空出世有了很大的改善，哪位大神开发的无从考证了，这种汉化包是用替换游戏语言文件的方式可以实现的，虽然这违反了CCP玩家协议的，但却是也给移民玩家提供了很大的便利。为了避免被封，用了汉化的玩家不敢拖黄字出来。当时华语玩家主流还是用英文端，用了汉化包，和大家交流的时候会显得格格不入，因为大家交流的船名啦、船型啦基本都是用英文。所以，用了汉化包的玩家也很痛苦。
 
-熊猫时代
+### 熊猫时代
 
 随着越来越多的华人玩家和公司的增加，为抱团取暖，让华人玩家有一个归宿，并在浩瀚的宇宙中占有一席之地，成立一家华人联盟的诉求就越来越迫切。
 
@@ -81,7 +83,7 @@ panda academy 熊猫学院
 
 这段对白说明了当时华人势力的羸弱，也说明了熊猫所处的科尔斯，鱼龙混杂势力混乱的环境很差。
 
-北极星联盟
+### 北极星联盟
 
 2012年4月，北极星联盟Polaris Mercenary Alliance<PM>成立，
 
@@ -127,7 +129,7 @@ panda academy 熊猫学院
 
 ![image13](/images/chinese-community-history/image13.webp)
 
-盘古盛世
+## 盘古盛世
 
 之后宇宙局势发生变化。为对抗CFC，NC+nulli(s2n)+？？成立了联盟群，取名N3。
 
@@ -161,7 +163,7 @@ https://v.youku.com/v_show/id_XNTc1OTA2NDcy.html?spm=a2hbt.13141534.app.5~5!2~5!
 
 2013.4，因为忙于现实生活，Wind Spirits开始AFK,并将盘古CEO变更为 MartianPower火星。火星上位后，拉开了盘古分裂的大幕。
 
-盘古分裂
+### 盘古分裂
 
 wind AFK后，盘古由火星（CEO）和手心（FC）领导。 由于火星和手心的管理死板严苛缺乏变通，积攒的矛盾中古爆发出来。
 
@@ -197,73 +199,73 @@ HY：当初Wind只是让我带FUXI这个新手团，给联盟交点税就行。
 
 2013年7月22日，萨满在CTA期间发收死亡邮件：
 
-“都来看看
-
-From:CtrilSent:
-
-2013.07.22 12:51
-
-To:Pangu Coalition,
-
-收死亡9/10 110m 10/10 350m，合同请挂在死亡附近的空间站。死亡坐标上请标注死亡所在星系，激活时间。例如：9/10 CKX 16；00”
+> “都来看看
+>
+> From:CtrilSent:
+>
+> 2013.07.22 12:51
+>
+> To:Pangu Coalition,
+>
+> 收死亡9/10 110m 10/10 350m，合同请挂在死亡附近的空间站。死亡坐标上请标注死亡所在星系，激活时间。例如：9/10 CKX 16；00”
 
 FC手心立刻回邮件罚款5B：
 
-“Re: 都来看看
-
-From:joyce MSent:
-
-2013.07.22 12:56
-
-To:Pangu Coalition, Ctril,
-
-罚款5bPANGUHOLDINGS打到这个公司或者48H内离开盘古谢谢”
+> “Re: 都来看看
+>
+> From:joyce MSent:
+>
+> 2013.07.22 12:56
+>
+> To:Pangu Coalition, Ctril,
+>
+> 罚款5bPANGUHOLDINGS打到这个公司或者48H内离开盘古谢谢”
 
 2013.7.24萨满交了500m罚款，并向联盟邮件道歉信件：
 
-“发错联盟邮件的处罚
-
-From:CtrilSent:
-
-2013.07.24 03:01
-
-To:Pangu Coalition,
-
-2013.07.2212:51由于本人的2B发错邮件，导致给前线CTA的成员带来非常大的负面影响，做为老成员，这中错误我是不应该范的，在此向2013.07.22 12:51在CTA的38名成员道歉。出发资金已经打到盘古 PANGU HOLDINGS 账户。在此，以我为例子给大家敲响歌警钟。前线CTA OP后面没参加的同学请克制自己在后发的所有行为，刷怪让白抓，AFK死的等等。我就是前车之鉴，别步入我额后尘！！”
+> “发错联盟邮件的处罚
+>
+> From:CtrilSent:
+>
+> 2013.07.24 03:01
+>
+> To:Pangu Coalition,
+>
+> 2013.07.2212:51由于本人的2B发错邮件，导致给前线CTA的成员带来非常大的负面影响，做为老成员，这中错误我是不应该范的，在此向2013.07.22 12:51在CTA的38名成员道歉。出发资金已经打到盘古 PANGU HOLDINGS 账户。在此，以我为例子给大家敲响歌警钟。前线CTA OP后面没参加的同学请克制自己在后发的所有行为，刷怪让白抓，AFK死的等等。我就是前车之鉴，别步入我额后尘！！”
 
 手心在看到萨满的道歉邮件后，发布了联盟邮件。至此事态升级。
 
-“Re: 发错联盟邮件的处罚
-
-From:joyce MSent:
-
-2013.07.24 13:38
-
-To:Pangu Coalition, Ctril,
-
-你的例子是发错误的联盟邮件以及前线pvp的时候在联盟频道发布的收购信息,这你都没理清自己的错误你让大家怎么原谅你你到现在都还在拉其他人垫背这真的是你觉得你错了吗?
-
-你以老人自居,你觉得有谁会认同你是老人的行列,老人里边还有谁去违反了默认规则
-
-联盟在规范制度
-
-, 这些都是你们逼的,明明就是大家来休闲娱乐的东西 , 弄的跟上班似的, 何必你让我该说什么
-
-请不要再有任何人跟我说,盘古就这样了,要啥制度,混混就过了这样的言论,有多少,清理多少,哪怕盘古就此消失在我手上我也不会介意的本来大家按照默认的规章制度行走就好了结果犯错了, 却以"没有联盟规章制度"为由进行规避
-
-好歹盘古联盟没有"小学生"吧?
-
-也别跟我提什么收死亡没钱赚,我自己心里有数我也清楚你怎么打压别人收死亡的,或者打死亡的这可以说是第二次给你脸了
-
-再犯者,没有任何通知,公司管理层请自觉立刻的执行踢出 , 24H内没踢出的 , 则联盟直接清退公司
-
-任何公司在明知成员犯错 , 但是还不分清白的护短,整个公司离开 , 这点适用于全部处罚情况
-
-现在明确的联盟邮件处罚力度是2b ISK/一封影响恶劣的直接清退ISK不够的公司填补
-
-这下大家满意了不?这算是盘古第一封关于处罚类的正式邮件了不?你们满意了不?
-
-这样的行为如何对得起前线的85人”
+> “Re: 发错联盟邮件的处罚
+>
+> From:joyce MSent:
+>
+> 2013.07.24 13:38
+>
+> To:Pangu Coalition, Ctril,
+>
+> 你的例子是发错误的联盟邮件以及前线pvp的时候在联盟频道发布的收购信息,这你都没理清自己的错误你让大家怎么原谅你你到现在都还在拉其他人垫背这真的是你觉得你错了吗?
+>
+> 你以老人自居,你觉得有谁会认同你是老人的行列,老人里边还有谁去违反了默认规则
+>
+> 联盟在规范制度
+>
+> , 这些都是你们逼的,明明就是大家来休闲娱乐的东西 , 弄的跟上班似的, 何必你让我该说什么
+>
+> 请不要再有任何人跟我说,盘古就这样了,要啥制度,混混就过了这样的言论,有多少,清理多少,哪怕盘古就此消失在我手上我也不会介意的本来大家按照默认的规章制度行走就好了结果犯错了, 却以"没有联盟规章制度"为由进行规避
+>
+> 好歹盘古联盟没有"小学生"吧?
+>
+> 也别跟我提什么收死亡没钱赚,我自己心里有数我也清楚你怎么打压别人收死亡的,或者打死亡的这可以说是第二次给你脸了
+>
+> 再犯者,没有任何通知,公司管理层请自觉立刻的执行踢出 , 24H内没踢出的 , 则联盟直接清退公司
+>
+> 任何公司在明知成员犯错 , 但是还不分清白的护短,整个公司离开 , 这点适用于全部处罚情况
+>
+> 现在明确的联盟邮件处罚力度是2b ISK/一封影响恶劣的直接清退ISK不够的公司填补
+>
+> 这下大家满意了不?这算是盘古第一封关于处罚类的正式邮件了不?你们满意了不?
+>
+> 这样的行为如何对得起前线的85人”
 
 2013.7.28盘古晚上9点开会。后半部分主要就是讨论萨满这件事。TCF的CEO HitoMing（所思）代表萨满给全体盘古前线成员道歉。当时在YY的大部分盘古成员应该都看到当时所思诚恳和负责任的态度。
 
@@ -485,7 +487,7 @@ TCF LOTM NUWA等公司退出盘古后，盘古人口缩水一半。PLA升级成�
 
 由于PLA和其他团的矛盾，加上PLA没有一同离开，导致了离开的部分公司成员和PLA之间有了更深的积怨。这为之后的华人内斗埋下了伏笔。
 
-盘古灭灯
+### 盘古灭灯
 
 盘古分裂后，有继续运营了半年左右光景。
 
@@ -519,7 +521,7 @@ TCF LOTM NUWA等公司退出盘古后，盘古人口缩水一半。PLA升级成�
 
 ![image18](/images/chinese-community-history/image18.webp)
 
-FRT时代
+## FRT时代
 
 TCF退出盘古后，计划去做海盗。得知LOTM也要退出盘古后，在wind的倡议下，同意组建新的华人联盟。
 
@@ -551,7 +553,7 @@ FRT2.0 2015年5月至2017年夏
 
 百家争鸣期 2017年夏至2019年十月
 
-FRT1.0
+### FRT1.0
 
 FRT1.0指的是从2013年8月至2015年4月这一段时间。这段时期主要讲的是FRT从科尔斯发育到打下FQQ口袋并驻扎在那里，再到远迁菲塔波利斯再到解散这一段时间的故事。
 
@@ -661,59 +663,59 @@ http://www.bilibili.tv/video/av936600/
 
 线面是PL管理层Grath致兄弟会Fraternity的信：
 
-感谢你们所做的一切
-
-发件人:Grath Telkin
-
-时间:2014.02.10 00:51
-
-收件人:Wind Spirits,
-
-当我们的舰队让我失望并在语音里大声怒吼时，你们之中大部分可能不认识我。
-
-所以我在这里先介绍一下自己，我是Grath，PL联盟Aniggerdly公司的CEO。
-
-我在这里是想告诉你们我是如此感激Fraternity（兄弟会FRT）在这90天之内的努力和决心。
-
-在这场战斗和我们一起并肩作战的的所有盟友中你们毫无疑问处于最激烈的战区面临着最活跃的对手。
-
-你们在你们的时区作战，
-
-基本每次接战都面对更多的对手和更强大的火力，
-
-你们像英雄一样作战，在胜算渺茫的情况下坚持下来，令人难以置信。
-
-此外，你们的领袖已经成为一位大家公认的坚毅沉稳、值得信赖、无法撼动的人。
-
-一位当事情尤其变得不如人意时，我们可以依靠的人。
-
-即便撇开战斗不谈，和Wind Spirits成为朋友使PL对兄弟会Fraternity充满敬意并珍惜这份情义。
-
-随着战争的推进我们希望你们都清楚当称呼你们是我们的盟友时是如此的自豪，
-
-请你们知道无论是什么我们会竭尽所能协助你们去继续这场战斗，
-
-在你们的时区在俄罗斯人攻势的阴影下生存这只有英雄才能做到。
-
-再次感谢你们所做的一切，我们期待维持和兄弟会Fraternity的关系，
-
-如果你们需要任何我们能帮到的，告诉我们。
-
-Thank you for all you've done
-
-From: Grath Telkin
-
-Sent: 2014.02.10 00:51
-
-To: Wind Spirits,
-
-Most of you won't know who I am outside hearing me yell on sound recordings when our fleets let me down, so I'll startby introducing myself, I'm Grath, the CEO of Sniggerdly in Pandemic Legion.
-
-I wanted to drop by and tell you all howmuch I appreciate the effort and the determination shown by Fraternity over thecourse of the last 90 days. Of all the allies we worked with in this war yourmembers were hands down the most effective fighting force we had to work alongside us. You fought in your timezone, generally outnumbered and generally outgunned, but you fought like hero's and managed to hold up under incredible odds and stick it out.
-
-Whats more is your leader has become knownas a solid and dependable stable man whom we can count on when things get particularly tough in the middle of the night for us. If the fighting weren'tenough, making friends with Wind Spirits has pretty much enamoured all ofPandemic Legion to Fraternity. As things in this war continue to grind on wewanted you all to know exactly how proud we are to call you our allies, and letyou know that we will do what is in our power for as long as we are able tomake sure that you have whatever it is you need to continue fighting and beingthe hero's you have been under the shadow of Russian aggression in your timezone.
-
-Again, thank you all for all you've done,and we look forward to continuing our relationship with Fraternity, if you need anytnig and we can help, we're only a batphone away.
+> 感谢你们所做的一切
+>
+> 发件人:Grath Telkin
+>
+> 时间:2014.02.10 00:51
+>
+> 收件人:Wind Spirits,
+>
+> 当我们的舰队让我失望并在语音里大声怒吼时，你们之中大部分可能不认识我。
+>
+> 所以我在这里先介绍一下自己，我是Grath，PL联盟Aniggerdly公司的CEO。
+>
+> 我在这里是想告诉你们我是如此感激Fraternity（兄弟会FRT）在这90天之内的努力和决心。
+>
+> 在这场战斗和我们一起并肩作战的的所有盟友中你们毫无疑问处于最激烈的战区面临着最活跃的对手。
+>
+> 你们在你们的时区作战，
+>
+> 基本每次接战都面对更多的对手和更强大的火力，
+>
+> 你们像英雄一样作战，在胜算渺茫的情况下坚持下来，令人难以置信。
+>
+> 此外，你们的领袖已经成为一位大家公认的坚毅沉稳、值得信赖、无法撼动的人。
+>
+> 一位当事情尤其变得不如人意时，我们可以依靠的人。
+>
+> 即便撇开战斗不谈，和Wind Spirits成为朋友使PL对兄弟会Fraternity充满敬意并珍惜这份情义。
+>
+> 随着战争的推进我们希望你们都清楚当称呼你们是我们的盟友时是如此的自豪，
+>
+> 请你们知道无论是什么我们会竭尽所能协助你们去继续这场战斗，
+>
+> 在你们的时区在俄罗斯人攻势的阴影下生存这只有英雄才能做到。
+>
+> 再次感谢你们所做的一切，我们期待维持和兄弟会Fraternity的关系，
+>
+> 如果你们需要任何我们能帮到的，告诉我们。
+>
+> Thank you for all you've done
+>
+> From: Grath Telkin
+>
+> Sent: 2014.02.10 00:51
+>
+> To: Wind Spirits,
+>
+> Most of you won't know who I am outside hearing me yell on sound recordings when our fleets let me down, so I'll startby introducing myself, I'm Grath, the CEO of Sniggerdly in Pandemic Legion.
+>
+> I wanted to drop by and tell you all howmuch I appreciate the effort and the determination shown by Fraternity over thecourse of the last 90 days. Of all the allies we worked with in this war yourmembers were hands down the most effective fighting force we had to work alongside us. You fought in your timezone, generally outnumbered and generally outgunned, but you fought like hero's and managed to hold up under incredible odds and stick it out.
+>
+> Whats more is your leader has become knownas a solid and dependable stable man whom we can count on when things get particularly tough in the middle of the night for us. If the fighting weren'tenough, making friends with Wind Spirits has pretty much enamoured all ofPandemic Legion to Fraternity. As things in this war continue to grind on wewanted you all to know exactly how proud we are to call you our allies, and letyou know that we will do what is in our power for as long as we are able tomake sure that you have whatever it is you need to continue fighting and beingthe hero's you have been under the shadow of Russian aggression in your timezone.
+>
+> Again, thank you all for all you've done,and we look forward to continuing our relationship with Fraternity, if you need anytnig and we can help, we're only a batphone away.
 
 ![连山](/images/chinese-community-history/image26.webp)
 
@@ -907,7 +909,7 @@ FRT最大规模，也就是相当于活跃于边缘地区的几十人规模的�
 
 FRT2.0，一个最适合当时当时华人联盟模式的时代在老好人HY的带领下到来了。
 
-FRT2.0
+### FRT2.0
 
 FRT2.0是记录的事2015年5月至2017年初国服移民潮前的这段时期的华人联盟的故事。
 
@@ -1117,7 +1119,7 @@ PLA在北方fcon的后，发生过了几次Frt和PLA之间的相互收割；在�
 
 对于历史往事，我也从以前是非分明到了现在的淡定处之，不再纠结于谁对谁错。国人相处，还是要讲究一个分寸，不能照搬老外那一套，也不能做直男。情商这个东西很重要。事实证明，历史恩怨就像两口子吵架，永远分不出个谁对谁错来。只要能找到自己要玩的内容，明确一个还算正确的目标，并开始行动，就ok。
 
-FRT3.0
+### FRT3.0
 
 FRT3.0 将从四个战争阶段来介绍欧服华人势力的发展，分别为：
 
@@ -1289,17 +1291,17 @@ https://zkillboard.com/related/30004435/201708162000/
 
 下面是N老板当时发布的紧急声明
 
-9/12//2017 联盟关于CO2和南方战争紧急声明
-
-未读文章 由 noraus » 12-09-2017 13:14
-
-所以，如果你们还不知道的话，CO2的联盟二号人物'the judge'今日叛出联盟，临行之前把CO2在impass的大小堡垒都转移给了Test，把68FT的集结点星城卖给了goons。无疑是巨大的打击，goons趁机和test暂时拉篮一周以围堵星城防止CO2超期和其他物资撤离。
-
-’现在当然是各方都很震惊，不少联盟趁机挖CO2墙角，夺取他们的公司和人员，CO2能不能继续这场战争，是一个很大的考验，必须要gigx有能力把人员凝聚起来。如果他们愿意继续打的话，也许会和我们合流，因为战争本来目的还是摧毁FCON，从底特里德方向推进也可以。我们会密切关注TEST和XIX的动向，这场战争无疑变数又陡然增多了。
-
-讲一下联盟成员最关心的，FRT如何应对。如果我不发帖声明，你们有人已经慌了“我才在ZL03刷第一天啊”“是不是准备撤回osy了”“OSY守得住吗”’诸如此类。如果你在华人联盟呆过一段时间就知道，NPC00永远是我们的起始点，在最困难的时期，联盟就会选择回到NPC00养伤回血。但是很显然目前的状况并不是联盟内部出了问题，而是盟友崩了一个。FRT一直都有很多外交的选择，不适合透漏细节，但是我们有来自TEST,GOTG,等等各方面的邀请。所以我从战争开始就说，FRT不会被打崩，我们如果选择暂离OSY（就像INIT暂离G-0），肯定是因为联盟有更好的地盘选择，不过目前完全没有这种打算。我们先打死FCON，剩下的慢慢好谈，去哪儿都不是难事。
-
-你现在应该做的是：多刷ISK充实钱包，新人冲上脑浆尽快能完美开好制式船。底特里德的新主权需要人组织巩固，防止FCON趁机反扑，周五打下他们在R1-的fortizar。总之，刷+进舰队干死fcon。我们是一个有潜力的团体，无须担心外部如何，提高实力才能处变不惊。
+> 9/12//2017 联盟关于CO2和南方战争紧急声明
+>
+> 未读文章 由 noraus » 12-09-2017 13:14
+>
+> 所以，如果你们还不知道的话，CO2的联盟二号人物'the judge'今日叛出联盟，临行之前把CO2在impass的大小堡垒都转移给了Test，把68FT的集结点星城卖给了goons。无疑是巨大的打击，goons趁机和test暂时拉篮一周以围堵星城防止CO2超期和其他物资撤离。
+>
+> ’现在当然是各方都很震惊，不少联盟趁机挖CO2墙角，夺取他们的公司和人员，CO2能不能继续这场战争，是一个很大的考验，必须要gigx有能力把人员凝聚起来。如果他们愿意继续打的话，也许会和我们合流，因为战争本来目的还是摧毁FCON，从底特里德方向推进也可以。我们会密切关注TEST和XIX的动向，这场战争无疑变数又陡然增多了。
+>
+> 讲一下联盟成员最关心的，FRT如何应对。如果我不发帖声明，你们有人已经慌了“我才在ZL03刷第一天啊”“是不是准备撤回osy了”“OSY守得住吗”’诸如此类。如果你在华人联盟呆过一段时间就知道，NPC00永远是我们的起始点，在最困难的时期，联盟就会选择回到NPC00养伤回血。但是很显然目前的状况并不是联盟内部出了问题，而是盟友崩了一个。FRT一直都有很多外交的选择，不适合透漏细节，但是我们有来自TEST,GOTG,等等各方面的邀请。所以我从战争开始就说，FRT不会被打崩，我们如果选择暂离OSY（就像INIT暂离G-0），肯定是因为联盟有更好的地盘选择，不过目前完全没有这种打算。我们先打死FCON，剩下的慢慢好谈，去哪儿都不是难事。
+>
+> 你现在应该做的是：多刷ISK充实钱包，新人冲上脑浆尽快能完美开好制式船。底特里德的新主权需要人组织巩固，防止FCON趁机反扑，周五打下他们在R1-的fortizar。总之，刷+进舰队干死fcon。我们是一个有潜力的团体，无须担心外部如何，提高实力才能处变不惊。
 
 我现在都怀疑CO2解体之后，面对巨大信心危机，凛冬是怎么挺过来的。但确实挺过来了。由于FCON信心大涨，完全有信心在＋8时区打败凛冬，所以，他们把主权窗口都调整到了+8时区，一来规避TRI的超旗舰队，二来，要在自己的弱势时区，打爆凛冬。但凛冬华人联盟群给了FCON一个响亮的耳光。居然在迷之信心中，把FCON干趟了。
 
@@ -1825,15 +1827,15 @@ N老板的AFK
 
 下边节选一段我的兄弟—一龙特奈特 ，作者N老板：
 
-”Elo Knight
-
-黑衣军团的国王，Hedliner 的朋友，NONO 的父亲，WC 的守卫者，维纳尔的统治者，伊美瑟亚的王，源泉的真正继承人，迪特里得的男友，死亡漩涡指挥官，从不睡觉的人，冲出重围者，联军超期解放人。
-
-同时我最好的朋友。
-
-Noraus
-
-2019/11/23“
+> ”Elo Knight
+>
+> 黑衣军团的国王，Hedliner 的朋友，NONO 的父亲，WC 的守卫者，维纳尔的统治者，伊美瑟亚的王，源泉的真正继承人，迪特里得的男友，死亡漩涡指挥官，从不睡觉的人，冲出重围者，联军超期解放人。
+>
+> 同时我最好的朋友。
+>
+> Noraus
+>
+> 2019/11/23“
 
 AOM的土炸弹
 
